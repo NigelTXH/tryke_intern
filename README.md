@@ -228,3 +228,5 @@ Inside the fake client script, you can modify these numbers:
 const CLIENTS_COUNT = 15;
 const LINE_READ = 100;
 ```
+
+IMPORTANT DISCLAIMER: Make sure CLIENTS_COUNT do not exceed the amount of log files
