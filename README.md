@@ -43,7 +43,7 @@ npm install
 5. Create a `.env` file in the `frontend` directory with the following:
 
 ```env
-REACT_APP_GOOGLE_API=
+REACT_APP_GOOGLE_API=your_api_ey
 ```
 
 6. Create the database, then run `database/schema.sql` to create the required tables.
